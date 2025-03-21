@@ -4,3 +4,8 @@ console.log(score)
 let isNumber =  Number(score)
 console.log(typeof isNumber)
 console.log(isNumber)
+
+let number=33
+let numstring=String(number)
+console.log(numstring)
+console.log(typeof numstring)

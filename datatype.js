@@ -9,3 +9,6 @@ let number=33
 let numstring=String(number)
 console.log(numstring)
 console.log(typeof numstring)
+// two type of datatype
+// primitive int ,char ,boolean
+// non primitiive (reference )  Array,list
